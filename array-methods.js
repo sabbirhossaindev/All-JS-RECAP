@@ -30,4 +30,4 @@ const specificName = products.filter(p => p.name.includes('n'));
 // 4. find
 // find hilo ja ta mas korba just first ta object hisaba return korba
 const specal = products.find(p => p.name.includes('n'));
-console.log(specal)
+console.log(specal);
